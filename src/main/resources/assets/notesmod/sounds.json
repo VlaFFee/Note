@@ -1,0 +1,8 @@
+{
+  "note_open":  { "sounds": ["notesmod:note_open"] },
+  "note_close": { "sounds": ["notesmod:note_close"] },
+  "photo_open": { "sounds": ["notesmod:photo_open"] },
+  "scribble":   { "sounds": ["notesmod:scribble"] },
+  "pick":       { "sounds": ["notesmod:pick"] },
+  "ambient":    { "sounds": ["notesmod:ambient"] }
+}
